@@ -2,6 +2,10 @@
 
 Automated aircraft identification from visual data using a **Triple-Expert Neural Ensemble**
 
+## Video Demonstration
+Due to the high memory requirements of the triple-model ensemble (Xception, EfficientNetB0, and ConvNeXtTiny), a full demonstration of the local inference engine is provided below:
+
+[▶️ Watch the Aerospace Image Classifier Demo on YouTube](https://youtu.be/raIrz_X8H58)
 ## Problem Statement
 
 Manual identification of aircraft from visual data is a critical but time-consuming task in aerospace monitoring and air traffic management.  
